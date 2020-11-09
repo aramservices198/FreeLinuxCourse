@@ -1,0 +1,1120 @@
+Uri: https://linuxjourney.com/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index.htm
+Content Type: text/html
+
+Uri: https://linuxjourney.com/assets/application-b0b91461d093aa2ed95d8a7467856e4dc16f55744d3c17a927c3598e5b26cd3f.css
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\application-b0b91461d093aa2ed95d8a7467856e4dc16f55744d3c17a927c3598e5b26cd3f.css
+Content Type: text/css
+
+Uri: https://linuxjourney.com/assets/favicon-e8bea7a0071e296638a3a1a08be81f0a30b9c945625e5a200fefecd8d9b2ed6c.ico
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\favicon-e8bea7a0071e296638a3a1a08be81f0a30b9c945625e5a200fefecd8d9b2ed6c.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css
+File Name: C:\Downloaded Web Sites\linuxjourney.com\embedcode\horizontal-slim-10_7.css
+Content Type: text/css
+
+Uri: https://linuxjourney.com/lesson/linux-history
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\linux-history.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/the-shell
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\the-shell.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/stdout-standard-out-redirect
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\stdout-standard-out-redirect.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/regular-expressions-regex
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\regular-expressions-regex.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/users-and-groups
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\users-and-groups.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/file-permissions
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\file-permissions.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/monitor-processes-ps-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\monitor-processes-ps-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/software-distribution
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\software-distribution.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dev-directory
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dev-directory.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/filesystem-hierarchy
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\filesystem-hierarchy.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/boot-process-overview
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\boot-process-overview.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/kernel-overview
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\kernel-overview.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/sysv-overview
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\sysv-overview.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/tracking-processes-top
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\tracking-processes-top.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/system-logging
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\system-logging.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/network-file-sharing
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\network-file-sharing.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/network-basics
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\network-basics.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/ipv4
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\ipv4.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/what-is-a-router
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\what-is-a-router.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/network-interfaces
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\network-interfaces.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/icmp
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\icmp.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/what-is-dns
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\what-is-dns.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/1593275676/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275676&linkCode=as2&tag=linuxjourne0c-20&linkId=66afad8b788e3ad0415cd17e66672e49
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\1593275676\ref=as_li_tl.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/1593275676/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593275676&linkCode=as2&tag=linuxjourne0c-20&linkId=a8c48da327d15530a7214f453d5a55da
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\1593275676\ref=as_li_tl-1.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/0131480057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131480057&linkCode=as2&tag=linuxjourne0c-20&linkId=036439cb1879c67434f7b4a4e5ff70e0
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\0131480057\ref=as_li_tl.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/0131480057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131480057&linkCode=as2&tag=linuxjourne0c-20&linkId=de7ed3d4e4bf2c29b637855e351cffd2
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\0131480057\ref=as_li_tl-1.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/111898384X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=111898384X&linkCode=as2&tag=linuxjourne0c-20&linkId=637fa44c301e0410008ee77ae7128b24
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\111898384X\ref=as_li_tl.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/111898384X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=111898384X&linkCode=as2&tag=linuxjourne0c-20&linkId=41767d3a073f8d20ff0db23bb11a2ac7
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\111898384X\ref=as_li_tl-1.html
+Content Type: text/html
+
+Uri: https://www.amazon.com/gp/product/1593272200/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593272200&linkCode=as2&tag=linuxjourne0c-20&linkId=f23f8ab49c9f16117f12e9701931b378
+File Name: C:\Downloaded Web Sites\linuxjourney.com\gp\product\1593272200\ref=as_li_tl.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/subscribe
+File Name: C:\Downloaded Web Sites\linuxjourney.com\subscribe.html
+Content Type: text/html
+
+Uri: https://github.com/cindyq/linuxjourney
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cindyq\linuxjourney.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/assets/application-8013fdc35e4c79f95bcb3d655ff61f137ac05bcee52e6d96588427a84eddef12.js
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\application-8013fdc35e4c79f95bcb3d655ff61f137ac05bcee52e6d96588427a84eddef12.js
+Content Type: application/javascript
+
+Uri: https://linuxjourney.com/assets/flags/United_States_of_America-998fb392be75a6bf1d89eb60693ecb40e0e883596f16f02f76a8d2f718a2de7a.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\United_States_of_America-998fb392be75a6bf1d89eb60693ecb40e0e883596f16f02f76a8d2f718a2de7a.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/France-8ecaabdf7505b39d2a9e890935a76f55107872acb90271b6d9db4c2a7dcc3a10.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\France-8ecaabdf7505b39d2a9e890935a76f55107872acb90271b6d9db4c2a7dcc3a10.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Germany-2894e79a5053887a7292215db0bc261ee45629334160c5fc1c3ef4cc8b91e70e.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Germany-2894e79a5053887a7292215db0bc261ee45629334160c5fc1c3ef4cc8b91e70e.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Greece-4d2c1b371d6dc4e3c831419ee52ac980e556ed7119737995ddbf320717065b20.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Greece-4d2c1b371d6dc4e3c831419ee52ac980e556ed7119737995ddbf320717065b20.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Israel-ba517d486904b8a31a4009fec1ae3b99bf4921adb0e809797f775c2dfc455186.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Israel-ba517d486904b8a31a4009fec1ae3b99bf4921adb0e809797f775c2dfc455186.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Italy-3ce665f4a9c41759a1cf56f75af3e61429222b6869837c2f2f38dc8681a8481a.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Italy-3ce665f4a9c41759a1cf56f75af3e61429222b6869837c2f2f38dc8681a8481a.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Japan-8217a50b2b40ff83aaeda08d1152153a577d9ad1c03bc90e66bf3c9dc9566edc.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Japan-8217a50b2b40ff83aaeda08d1152153a577d9ad1c03bc90e66bf3c9dc9566edc.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/South_Korea-a8cec588b886018d1d45fba84f15191e5e3ad563cdd5919b264e47c1680a80a1.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\South_Korea-a8cec588b886018d1d45fba84f15191e5e3ad563cdd5919b264e47c1680a80a1.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Macedonia-1a40249014d7e74ed18cdb3babd9ef858e7fafafcfe669ca9a7c10566fb24c5b.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Macedonia-1a40249014d7e74ed18cdb3babd9ef858e7fafafcfe669ca9a7c10566fb24c5b.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Iran-386c49847194474b095c6f55aa780e602593e2b593a7a8bcdad2a0566f1ca825.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Iran-386c49847194474b095c6f55aa780e602593e2b593a7a8bcdad2a0566f1ca825.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Brazil-310ab6c812922e6c4d41ceb2202068a1d26832e07dae4cecb3830eab8af77b18.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Brazil-310ab6c812922e6c4d41ceb2202068a1d26832e07dae4cecb3830eab8af77b18.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Russian_Federation-53fd16ec69b6d9df7eea62dd5a8b9c25af59baa8083014805f608453f78248a1.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Russian_Federation-53fd16ec69b6d9df7eea62dd5a8b9c25af59baa8083014805f608453f78248a1.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Slovakia-46be644389be9b49b84af277928eaed5c42d3b8896cd16a7003b20f70386937c.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Slovakia-46be644389be9b49b84af277928eaed5c42d3b8896cd16a7003b20f70386937c.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Spain-dfaad24e944a60d73aec50d0c2b4949371e8cc0fbb3df645a81d089811c29c07.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Spain-dfaad24e944a60d73aec50d0c2b4949371e8cc0fbb3df645a81d089811c29c07.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/flags/Turkey-20599e2a6d865c86dd4cc820518027a2d7a2b291a15cdca0517d2fb45efa4557.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\flags\Turkey-20599e2a6d865c86dd4cc820518027a2d7a2b291a15cdca0517d2fb45efa4557.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/jumbotron-60c93c2fc6bb16079b70fe2eccacaa05f2d6b002af4ff0667ddd8e283cbf81fd.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\jumbotron-60c93c2fc6bb16079b70fe2eccacaa05f2d6b002af4ff0667ddd8e283cbf81fd.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/getting-started-cd39013b87fac4b4b5d668752511f154a673adc94fad86c9be53f0016bf3bc35.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\getting-started-cd39013b87fac4b4b5d668752511f154a673adc94fad86c9be53f0016bf3bc35.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/command-line-dd6a59e10b5ec94f43e805d35d8556dfd070c25871788dd8b5a09a536a477b0a.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\command-line-dd6a59e10b5ec94f43e805d35d8556dfd070c25871788dd8b5a09a536a477b0a.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/text-fu-622e3761a4638fdc72b7c21d2e6d41ae71861da119bdafe677a9bafa0627f1ca.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\text-fu-622e3761a4638fdc72b7c21d2e6d41ae71861da119bdafe677a9bafa0627f1ca.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/text-fu-advanced-384999618925a5ad54abb9113cfab05f5bd3f7e341d16aecbcbf1c83711e2378.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\text-fu-advanced-384999618925a5ad54abb9113cfab05f5bd3f7e341d16aecbcbf1c83711e2378.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/user-management-11b3136e7e9f551e6efa2929fbef7b3f4693dd8e9d33f8db709c3415b6815dca.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\user-management-11b3136e7e9f551e6efa2929fbef7b3f4693dd8e9d33f8db709c3415b6815dca.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/access-6157a84d9ecc01b59ff9ed57040090948fc8851e60647033087af0f58d4236f4.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\access-6157a84d9ecc01b59ff9ed57040090948fc8851e60647033087af0f58d4236f4.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/processes-bf5fd64c3ace61821e8378b9911ef0606de5721e178d319abdc443fb82c9547a.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\processes-bf5fd64c3ace61821e8378b9911ef0606de5721e178d319abdc443fb82c9547a.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/package-management-9a40f89dde6d2e2d861722093b97eadc3b852446125df64ea2ce344dc47ef00d.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\package-management-9a40f89dde6d2e2d861722093b97eadc3b852446125df64ea2ce344dc47ef00d.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/devices-5088f49b6a0d4ce892e106ee1e837e401de62d8f1ee8648ac00bd9a0e9f576c2.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\devices-5088f49b6a0d4ce892e106ee1e837e401de62d8f1ee8648ac00bd9a0e9f576c2.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/filesystem-6bfae474a9f31492fcc960a1c49ed97ac7d64038ddbde2d69258e3e7cd79f241.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\filesystem-6bfae474a9f31492fcc960a1c49ed97ac7d64038ddbde2d69258e3e7cd79f241.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/booting-32f576a824d0160350167ece5da8fb719edd1e814ecbfaec20f6da7d9f31bfa0.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\booting-32f576a824d0160350167ece5da8fb719edd1e814ecbfaec20f6da7d9f31bfa0.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/kernel-99533d3ebf83d9bb34e8971887d90acb259f72d0092aa1f628d6c7036bd62144.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\kernel-99533d3ebf83d9bb34e8971887d90acb259f72d0092aa1f628d6c7036bd62144.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/init-36c89d8f5958b7a10251e5958735345be7997426ab3d6db3f84c4dc04a99f9af.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\init-36c89d8f5958b7a10251e5958735345be7997426ab3d6db3f84c4dc04a99f9af.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/process-utilization-7cbd9417e89126a2548cb7ce59555fe53682fe00aa9e509840c4f22fa25b4d16.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\process-utilization-7cbd9417e89126a2548cb7ce59555fe53682fe00aa9e509840c4f22fa25b4d16.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/logging-6a62164e665c33b2f4d0fa4d1a002a934c291ce3fa9eebb8398612256ddb5241.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\logging-6a62164e665c33b2f4d0fa4d1a002a934c291ce3fa9eebb8398612256ddb5241.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/network-sharing-160c16689bb42ee68a9047bb8e3741a00934d9e70cf5c9feb8caef9b62a0b8e8.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\network-sharing-160c16689bb42ee68a9047bb8e3741a00934d9e70cf5c9feb8caef9b62a0b8e8.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/network-fundamentals-23b42f49c6f57d45884285ffbfdf44127863ae96243eb51ce39fb139f585cab1.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\network-fundamentals-23b42f49c6f57d45884285ffbfdf44127863ae96243eb51ce39fb139f585cab1.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/subnetting-419b4e0a930964af38188bb919aa65433e7c46e846637eee5e6e820191d63fbc.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\subnetting-419b4e0a930964af38188bb919aa65433e7c46e846637eee5e6e820191d63fbc.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/routing-1390297a37feb14fb6ab2434015d60a93c7d3caad58e6ab5ba358a70b4f5a170.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\routing-1390297a37feb14fb6ab2434015d60a93c7d3caad58e6ab5ba358a70b4f5a170.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/network-configuration-6677cdfe892728ed77e3c4a97e24f5dbcb98fc2b117495b12faec2e156b8f5ed.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\network-configuration-6677cdfe892728ed77e3c4a97e24f5dbcb98fc2b117495b12faec2e156b8f5ed.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/network-troubleshooting-5551300f3d2be9d5b3c6165a001ee7861a4d78c7482b130e54d4127ef95cdc14.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\network-troubleshooting-5551300f3d2be9d5b3c6165a001ee7861a4d78c7482b130e54d4127ef95cdc14.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/assets/dns-ae93614cbe94c428f5f103fd842c2fc887e2e740b3a6bc119a9a37ce11e3faf8.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\dns-ae93614cbe94c428f5f103fd842c2fc887e2e740b3a6bc119a9a37ce11e3faf8.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://linuxjourney.com/assets/bootstrap/glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431.eot
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\bootstrap\glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://linuxjourney.com/assets/bootstrap/glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431.eot?
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\bootstrap\glyphicons-halflings-regular-f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://linuxjourney.com/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\bootstrap\glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff
+Content Type: application/font-woff
+
+Uri: https://linuxjourney.com/assets/bootstrap/glyphicons-halflings-regular-bd18efd3efd70fec8ad09611a20cdbf99440b2c1d40085c29be036f891d65358.ttf
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\bootstrap\glyphicons-halflings-regular-bd18efd3efd70fec8ad09611a20cdbf99440b2c1d40085c29be036f891d65358.ttf
+Content Type: application/octet-stream
+
+Uri: https://linuxjourney.com/assets/bootstrap/glyphicons-halflings-regular-d168d50a88c730b4e6830dc0da2a2b51dae4658a77d9619943c27b8ecfc19d1a.svg
+File Name: C:\Downloaded Web Sites\linuxjourney.com\assets\bootstrap\glyphicons-halflings-regular-d168d50a88c730b4e6830dc0da2a2b51dae4658a77d9619943c27b8ecfc19d1a.svg
+Content Type: image/svg+xml
+
+Uri: https://linuxjourney.com/lesson/choosing-a-linux-distribution
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\choosing-a-linux-distribution.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/debian
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\debian.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/red-hat-enterprise-linux
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\red-hat-enterprise-linux.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/ubuntu
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\ubuntu.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/fedora
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\fedora.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/linux-mint
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\linux-mint.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/gentoo
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\gentoo.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/arch-linux
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\arch-linux.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/opensuse
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\opensuse.html
+Content Type: text/html
+
+Uri: https://www.gnu.org/home.en.html
+File Name: C:\Downloaded Web Sites\linuxjourney.com\home.en.html
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Ken_Thompson
+File Name: C:\Downloaded Web Sites\linuxjourney.com\wiki\Ken_Thompson.html
+Content Type: text/html
+
+Uri: https://stallman.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-1.htm
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/Linus_Torvalds
+File Name: C:\Downloaded Web Sites\linuxjourney.com\wiki\Linus_Torvalds.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/print-working-directory-pwd-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\print-working-directory-pwd-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/change-directory-cd-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\change-directory-cd-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/list-directories-ls-commmand
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\list-directories-ls-commmand.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/touch-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\touch-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/file-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\file-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/cat-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\cat-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/less-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\less-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/history-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\history-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/copy-cp-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\copy-cp-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/move-mv-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\move-mv-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/make-directory-mkdir-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\make-directory-mkdir-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/remove-rm-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\remove-rm-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/find-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\find-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/help-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\help-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/man-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\man-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/whatis-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\whatis-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/alias-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\alias-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/exit-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\exit-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/stdin-standard-in-redirect
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\stdin-standard-in-redirect.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/stderr-standard-error-redirect
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\stderr-standard-error-redirect.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/pipe-tee-redirect
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\pipe-tee-redirect.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/env-environment
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\env-environment.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/cut-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\cut-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/paste-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\paste-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/head-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\head-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/tail-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\tail-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/expand-unexpand-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\expand-unexpand-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/join-split-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\join-split-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/sort-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\sort-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/tr-translate-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\tr-translate-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/uniq-unique-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\uniq-unique-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/nl-wc-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\nl-wc-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/grep-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\grep-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/text-editors-vim-or-emacs
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\text-editors-vim-or-emacs.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/vim-text-editor
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\vim-text-editor.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/vim-search-patterns
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\vim-search-patterns.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/vim-navigation
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\vim-navigation.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/vim-inserting-appending-text
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\vim-inserting-appending-text.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/vim-editing
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\vim-editing.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/vim-saving-and-exiting
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\vim-saving-and-exiting.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/emacs-text-editor
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\emacs-text-editor.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/emacs-manipulate-files
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\emacs-manipulate-files.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/emacs-buffer-navigation
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\emacs-buffer-navigation.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/emacs-editing
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\emacs-editing.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/emacs-exiting-and-help
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\emacs-exiting-and-help.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/root-user
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\root-user.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/etc-passwd-file
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\etc-passwd-file.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/etc-shadow-file
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\etc-shadow-file.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/etc-group-file
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\etc-group-file.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/user-management-tools
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\user-management-tools.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/modifying-permissions
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\modifying-permissions.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/ownership-permissions
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\ownership-permissions.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/umask
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\umask.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/setuid-set-user-id
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\setuid-set-user-id.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/setgid-set-group-id
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\setgid-set-group-id.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-permissions
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-permissions.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/sticky-bit
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\sticky-bit.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/controlling-terminal
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\controlling-terminal.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-details
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-details.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-creation
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-creation.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-termination
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-termination.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-signals
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-signals.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/killing-processes
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\killing-processes.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-niceness
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-niceness.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-states
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-states.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/proc-filesystem
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\proc-filesystem.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/job-control
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\job-control.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/package-repositories
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\package-repositories.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/compressed-archives-tar
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\compressed-archives-tar.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/package-dependencies
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\package-dependencies.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/package-install-tools
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\package-install-tools.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/package-management-systems
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\package-management-systems.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/compile-source-code
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\compile-source-code.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/device-types
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\device-types.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/device-names
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\device-names.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/sysfs
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\sysfs.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/udev
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\udev.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/listing-devices
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\listing-devices.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dd-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dd-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/filesystem-types
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\filesystem-types.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/anatomy-of-a-disk
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\anatomy-of-a-disk.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/disk-partitioning
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\disk-partitioning.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/creating-filesystems
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\creating-filesystems.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/mounting-and-unmounting-filesystems
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\mounting-and-unmounting-filesystems.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/etc-fstab-file-system-table
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\etc-fstab-file-system-table.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/swap-space
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\swap-space.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/disk-usage
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\disk-usage.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/filesystem-repair
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\filesystem-repair.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/inodes
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\inodes.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/symlinks
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\symlinks.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/boot-process-bios
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\boot-process-bios.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/boot-process-bootloader
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\boot-process-bootloader.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/boot-process-kernel
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\boot-process-kernel.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/boot-process-init
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\boot-process-init.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/kernel-privilege-levels
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\kernel-privilege-levels.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/system-calls
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\system-calls.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/kernel-installation
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\kernel-installation.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/kernel-location
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\kernel-location.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/kernel-modules
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\kernel-modules.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/sysv-services
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\sysv-services.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/upstart-overview
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\upstart-overview.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/upstart-jobs
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\upstart-jobs.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/systemd-overview
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\systemd-overview.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/systemd-goals
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\systemd-goals.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/power-states
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\power-states.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/tracking-processes-lsof-fuser
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\tracking-processes-lsof-fuser.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/process-threads
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\process-threads.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/cpu-monitoring
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\cpu-monitoring.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/io-monitoring
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\io-monitoring.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/memory-monitoring
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\memory-monitoring.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/continuous-monitoring
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\continuous-monitoring.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/cron-jobs
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\cron-jobs.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/syslog
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\syslog.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/general-logging
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\general-logging.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/kernel-logging
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\kernel-logging.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/authentication-logging
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\authentication-logging.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/managing-log-files
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\managing-log-files.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/rsync
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\rsync.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/simple-http-server
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\simple-http-server.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/nfs-network-file-share
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\nfs-network-file-share.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/samba
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\samba.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/osi-model
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\osi-model.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/tcp-ip-model
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\tcp-ip-model.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/network-addressing
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\network-addressing.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/application-layer
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\application-layer.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/transport-layer
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\transport-layer.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/network-layer
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\network-layer.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/link-layer
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\link-layer.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dhcp-overview
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dhcp-overview.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/subnets
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\subnets.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/subnet-math
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\subnet-math.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/subnetting-cheats
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\subnetting-cheats.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/classless-interdomain-routing-cidr
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\classless-interdomain-routing-cidr.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/nat-network-address-translation
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\nat-network-address-translation.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/ipv6
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\ipv6.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/routing-table
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\routing-table.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/path-of-a-packet
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\path-of-a-packet.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/routing-protocols
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\routing-protocols.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/distance-vector-protocols
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\distance-vector-protocols.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/link-state-protocols
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\link-state-protocols.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/bgp-border-gateway-protocol
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\bgp-border-gateway-protocol.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/route
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\route.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dhclient
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dhclient.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/network-manager
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\network-manager.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/arp-command
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\arp-command.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/ping
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\ping.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/traceroute
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\traceroute.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/netstat
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\netstat.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/packet-analysis
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\packet-analysis.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dns-components
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dns-components.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dns-process
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dns-process.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/etc-hosts
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\etc-hosts.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dns-setup
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dns-setup.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/lesson/dns-tools
+File Name: C:\Downloaded Web Sites\linuxjourney.com\lesson\dns-tools.html
+Content Type: text/html
+
+Uri: https://cdn-images.mailchimp.com/embedcode/classic-081711.css
+File Name: C:\Downloaded Web Sites\linuxjourney.com\embedcode\classic-081711.css
+Content Type: text/css
+
+Uri: https://linuxjourney.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\linuxjourney.com\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\linuxjourney.com\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://m.media-amazon.com/images/I/51LAvDkpwmL._SL160_.jpg
+File Name: C:\Downloaded Web Sites\linuxjourney.com\images\I\51LAvDkpwmL._SL160_.jpg
+Content Type: image/jpeg
+
+Uri: https://m.media-amazon.com/images/I/61OG0viqLzL._SL160_.jpg
+File Name: C:\Downloaded Web Sites\linuxjourney.com\images\I\61OG0viqLzL._SL160_.jpg
+Content Type: image/jpeg
+
+Uri: https://m.media-amazon.com/images/I/510tKboj78L._SL160_.jpg
+File Name: C:\Downloaded Web Sites\linuxjourney.com\images\I\510tKboj78L._SL160_.jpg
+Content Type: image/jpeg
+
+Uri: https://m.media-amazon.com/images/I/515ZB90pn6L._SL160_.jpg
+File Name: C:\Downloaded Web Sites\linuxjourney.com\images\I\515ZB90pn6L._SL160_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.debian.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-2.htm
+Content Type: text/html
+
+Uri: https://getfedora.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.gentoo.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.archlinux.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-6.htm
+Content Type: text/html
+
+Uri: https://software.opensuse.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.vim.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.gnu.org/software/emacs/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\software\emacs\index.htm
+Content Type: text/html
+
+Uri: https://xkcd.com/1168/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\1168\index.htm
+Content Type: text/html
+
+Uri: https://en.wikipedia.org/wiki/OSI_model
+File Name: C:\Downloaded Web Sites\linuxjourney.com\wiki\OSI_model.html
+Content Type: text/html
+
+Uri: https://linuxjourney.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://linuxjourney.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\linuxjourney.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://dash.cloudflare.com/sign-up?utm_source=email_protection
+File Name: C:\Downloaded Web Sites\linuxjourney.com\sign-up.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\5xx-error-landing\index.htm
+Content Type: text/html
+
+Uri: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+File Name: C:\Downloaded Web Sites\linuxjourney.com\en\technologies\linux-platforms\enterprise-linux.html
+Content Type: text/html
+
+Uri: https://ubuntu.com/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-3.htm
+Content Type: text/html
+
+Uri: https://yast.opensuse.org/
+File Name: C:\Downloaded Web Sites\linuxjourney.com\index-7.htm
+Content Type: text/html
+

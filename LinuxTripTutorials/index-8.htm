@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Get openSUSE</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Script-Type" content="text/javascript"/>
+    <meta http-equiv="Content-Style-Type" content="text/css"/>
+
+    <link rel="search" type="application/opensearchdescription+xml" title="openSUSE Software" href="/search_software.xml" />
+
+    <link rel="stylesheet" media="screen" href="/assets/application-3d60a3769f750f8e43697a165bf1045ccdc37051066ada98628d28582f678f47.css" />
+    <script src="/assets/application-172c8202ee21699f1308173bee6f663bf73ee490132b225231d06e9a4a2009f7.js"></script>
+    <link href="https://software.opensuse.org/favicon.ico" rel="shortcut icon" />
+
+    
+
+    <script type="text/javascript">
+      /* <![CDATA[ */
+
+  $(function() {
+
+  });
+  /* ]]> */
+    </script>
+
+    <!-- Piwik -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      (function(){
+        var u="https://beans.opensuse.org/piwik/";
+        _paq.push(['setSiteId', 7]);
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['trackPageView']);
+        _paq.push([ 'setDomains', ["*.opensuse.org"]]);
+        var d=document,
+        g=d.createElement('script'),
+        s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript';
+        g.defer=true;
+        g.async=true;
+        g.src=u+'piwik.js';
+        s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <!-- End Piwik Code -->
+
+    <style>
+      html, body {
+        min-height:100vh;
+      }
+      body {
+        display: flex;
+        flex-flow: column;
+      }
+      #content {
+        margin-top: auto !important;
+        margin-bottom: auto !important;
+      }
+    </style>
+
+  </head>
+  <body>
+
+    <nav id="global-navbar" class="navbar navbar-expand-md navbar-toggleable navbar-dark bg-dark sticky-top">
+
+  <a class="navbar-brand" href="https://www.opensuse.org/">
+    <img width="48" height="30" class="d-inline-block align-top" alt="openSUSE Logo" src="/assets/chameleon/logo/logo-white-7fcfe6dedcfb0b71f9cc090c93e1aa4f842eaeb1d5a9abfecdde0f4adbdb7f32.svg" />
+  </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#global-navbar-content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="global-navbar-content">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/distributions">Download</a>
+      </li>
+      <li class="nav-item ">
+        <a class="nav-link" href="/explore">Software</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://doc.opensuse.org/">Documentation</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://en.opensuse.org/">Wiki</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://forums.opensuse.org/">Forums</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+
+        <div class="search-box py-5">
+  <div class="container">
+    <form action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <div class="row">
+        <div class="col-md">
+          <div class="row m-0 input-group">
+            <div class="col-md-auto p-0 input-group-prepend">
+            <select name="baseproject" id="baseproject" class="btn custom-select"><option value="ALL">ALL Distributions</option>
+<option value="openSUSE:Factory">openSUSE Tumbleweed</option>
+<option value="openSUSE:Leap:15.2">openSUSE Leap 15.2</option>
+<option value="openSUSE:Leap:15.2:ARM">openSUSE Leap 15.2 ARM</option>
+<option value="openSUSE:Leap:15.2:PowerPC">openSUSE Leap 15.2 PowerPC</option>
+<option value="openSUSE:Leap:15.1">openSUSE Leap 15.1</option>
+<option value="openSUSE:Leap:15.1:ARM">openSUSE Leap 15.1 ARM</option>
+<option value="openSUSE:Leap:15.1:PowerPC">openSUSE Leap 15.1 PowerPC</option>
+<option value="openSUSE:Factory:RISCV">openSUSE Factory RISCV</option>
+<option value="openSUSE:Factory:ARM">openSUSE Factory ARM</option>
+<option value="openSUSE:Factory:PowerPC">openSUSE Factory PowerPC</option>
+<option value="openSUSE:Factory:zSystems">openSUSE Factory zSystems</option>
+<option value="openSUSE:Backports:SLE-15-SP2">openSUSE Backports for SLE 15 SP2</option>
+<option value="openSUSE:Backports:SLE-15-SP1">openSUSE Backports for SLE 15 SP1</option>
+<option value="openSUSE:Backports:SLE-15">openSUSE Backports for SLE 15</option>
+<option value="openSUSE:Backports:SLE-12-SP5">openSUSE Backports for SLE 12 SP5</option>
+<option value="openSUSE:Backports:SLE-12-SP4">openSUSE Backports for SLE 12 SP4</option>
+<option value="openSUSE:Backports:SLE-12-SP3">openSUSE Backports for SLE 12 SP3</option>
+<option value="openSUSE:Backports:SLE-12-SP2">openSUSE Backports for SLE 12 SP2</option>
+<option value="openSUSE:Backports:SLE-12-SP1">openSUSE Backports for SLE 12 SP1</option>
+<option value="openSUSE:Backports:SLE-12">openSUSE Backports for SLE 12 SP0</option>
+<option value="SUSE:SLE-15-SP2:GA">SUSE SLE-15-SP2</option>
+<option value="SUSE:SLE-15-SP1:GA">SUSE SLE-15-SP1</option>
+<option value="SUSE:SLE-15:GA">SUSE SLE-15</option>
+<option value="SUSE:SLE-12-SP5:GA">SUSE SLE-12-SP5</option>
+<option value="SUSE:SLE-12-SP4:GA">SUSE SLE-12-SP4</option>
+<option value="SUSE:SLE-12-SP3:GA">SUSE SLE-12-SP3</option>
+<option value="SUSE:SLE-12-SP2:GA">SUSE SLE-12-SP2</option>
+<option value="SUSE:SLE-12-SP1:GA">SUSE SLE-12-SP1</option>
+<option value="SUSE:SLE-12:GA">SUSE SLE-12</option>
+<option value="SUSE:SLE-11:SP4">SUSE SLE-11 SP 4</option>
+<option value="SUSE:SLE-10:SDK">SUSE SLE-10</option>
+<option value="Arch:Extra">Arch Extra</option>
+<option value="Arch:Community">Arch Community</option>
+<option value="Raspbian:10">Raspbian 10</option>
+<option value="Raspbian:9.0">Raspbian 9.0</option>
+<option value="Debian:Next">Debian Unstable</option>
+<option value="Debian:Testing">Debian Testing</option>
+<option value="Debian:10">Debian 10</option>
+<option value="Debian:9.0">Debian 9.0</option>
+<option value="Debian:8.0">Debian 8.0</option>
+<option value="Debian:7.0">Debian 7.0</option>
+<option value="Fedora:Rawhide">Fedora Rawhide (unstable)</option>
+<option value="Fedora:33">Fedora 33</option>
+<option value="Fedora:32">Fedora 32</option>
+<option value="Fedora:31">Fedora 31</option>
+<option value="Fedora:30">Fedora 30</option>
+<option value="Fedora:29">Fedora 29</option>
+<option value="ScientificLinux:7">ScientificLinux 7</option>
+<option value="ScientificLinux:6">ScientificLinux 6</option>
+<option value="RedHat:RHEL-7">RedHat RHEL-7</option>
+<option value="RedHat:RHEL-6">RedHat RHEL-6</option>
+<option value="RedHat:RHEL-5">RedHat RHEL-5</option>
+<option value="CentOS:CentOS-8:Stream">CentOS CentOS-8-Stream</option>
+<option value="CentOS:CentOS-8">CentOS CentOS-8</option>
+<option value="CentOS:CentOS-7">CentOS CentOS-7</option>
+<option value="CentOS:CentOS-6">CentOS CentOS-6</option>
+<option value="Ubuntu:20.10">Ubuntu 20.10</option>
+<option value="Ubuntu:20.04">Ubuntu 20.04</option>
+<option value="Ubuntu:19.10">Ubuntu 19.10</option>
+<option value="Ubuntu:19.04">Ubuntu 19.04</option>
+<option value="Ubuntu:18.04">Ubuntu 18.04</option>
+<option value="Ubuntu:16.04">Ubuntu 16.04</option>
+<option value="Ubuntu:14.04">Ubuntu 14.04</option>
+<option value="Univention:4.4">Univention UCS 4.4</option>
+<option value="Univention:4.3">Univention UCS 4.3</option>
+<option value="Univention:4.2">Univention UCS 4.2</option>
+<option value="Univention:4.1">Univention UCS 4.1</option>
+<option value="Univention:4.0">Univention UCS 4.0</option>
+<option value="Mageia:Cauldron">Mageia Cauldron (unstable)</option>
+<option value="Mageia:7">Mageia 7</option>
+<option value="Mageia:6">Mageia 6</option>
+<option value="Univention:3.2">Univention UCS 3.2</option>
+<option value="IBM:PowerKVM:3.1">IBM PowerKVM 3.1</option>
+<option value="OBS:AppImage">AppImage</option></select>
+            </div>
+            <div class="col py-3 p-0 p-md-0 input-group-append">
+            <input type="text" name="q" id="search-form" class="form-control" placeholder="Search packages..." autocomplete="off" autofocus="autofocus" size="60" />
+            </div>
+          </div>
+        </div>
+        <div class="col-md-auto btn-group d-flex">
+          <button id="search-button" type="submit" class="btn btn-primary ml-auto">
+            <span class="typcn typcn-lg typcn-zoom-outline"></span>
+            Search
+          </button>
+          <button id="settings-button" type="button" class="btn btn-secondary mr-auto" data-toggle="modal" data-target="#search-settings">
+            <span class="typcn typcn-lg typcn-spanner-outline"></span>
+          </button>
+        </div>
+      </div>
+</form>  </div>
+</div>
+<div class="modal fade" id="search-settings" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Search settings</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <form>
+          <div class="form-check">
+            <label class="form-check-label">
+              <input type="checkbox" name="search_devel" id="search_devel" value="true" />
+              Show development packages
+            </label>
+          </div>
+
+          <div class="form-check">
+            <label class="form-check-label">
+              <input type="checkbox" name="search_lang" id="search_lang" value="true" />
+              Show language packages
+            </label>
+          </div>
+
+          <div class="form-check">
+            <label class="form-check-label">
+              <input type="checkbox" name="search_debug" id="search_debug" value="true" />
+              Show debug packages
+            </label>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="ok-button btn btn-primary">OK</button>
+          <button type="button" class="cancel-button btn btn-secondary">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+    <div class="container-fluid mb-5">
+  <div class="row">
+    <div class="col-md-6 bg-primary text-white py-2 px-5 py-md-5">
+      <div class="row h-100">
+        <div class="col-md-12 col-6">
+          <img alt="Tumbleweed Logo" class="card-img-top animated bounceIn" width="256" height="256" src="/assets/distributions/tumbleweed-white-342e934fbd59bb832ac4fd9d879c76c6e0da9b6671630856d27414c28bb3705d.svg" />
+        </div>
+        <div class="col-md-12 col-6 d-flex flex-column my-auto my-md-0">
+          <div class="mb-md-auto text-center">
+            <h2>Tumbleweed</h2>
+            <h6>For Developers, openSUSE Contributors, and Linux/FOSS Enthusiasts.</h6>
+            <p>Download openSUSE’s rolling release and always run the latest packages provided by the openSUSE Project.</p>
+          </div>
+          <div class="mx-auto">
+            <a class="btn btn-light m-2" href="/distributions/tumbleweed">View Tumbleweed</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 bg-success text-white py-2 px-5 py-md-5">
+      <div class="row h-100">
+        <div class="col-md-12 col-6">
+          <img alt="Leap Logo" class="card-img-top animated bounceIn" width="256" height="256" src="/assets/distributions/leap-white-7d8614b4b012ef2d064ff2642586d4a72197a366fcca34cf5aca7a7fd42a6a1b.svg" />
+        </div>
+        <div class="col-md-12 col-6 d-flex flex-column my-auto my-md-0">
+          <div class="mb-md-auto text-center">
+            <h2>Leap</h2>
+            <h6>For Sysadmins, Enterprise Developers, and ‘Regular’ Desktop Users.</h6>
+            <p>Download openSUSE’s regular release and enjoy the benefits of both enterprise-grade engineering and community-developed innovation.</p>
+          </div>
+          <div class="mx-auto text-center">
+            <a class="btn btn-light m-2" href="/distributions/leap">View Leap</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /.container -->
+
+<section class="mb-4">
+  <div class="container">
+    <h2 class="display-4 text-center mb-5">
+      Choosing which Distribution to Download
+    </h2>
+
+    <div class="row mb-3">
+      <div class="col-md-6">
+        <h3>Tumbleweed</h3>
+        <p>
+          <a href="/distributions/tumbleweed">openSUSE Tumbleweed</a> is a <strong>rolling-release</strong>. This means the software is always the latest stable versions available from the openSUSE Project. Things will change regularly as Free and Open Source projects continually release new versions of their software.
+        </p>
+        <p>
+          Tumbleweed is recommended for <strong>Developers</strong>, <strong>openSUSE Contributors</strong>, and <strong>Linux/FOSS Enthusiasts</strong>.
+        </p>
+      </div><!-- /.col- -->
+      <div class="col-md-6">
+        <h3>Leap</h3>
+        <p>
+          <a href="/distributions/leap">openSUSE Leap</a> is a <strong>regular-release</strong>. This means it releases <a href="https://en.opensuse.org/openSUSE:Roadmap">annually</a>, with security and stability updates being the priority during each release <a href="https://en.opensuse.org/Lifetime">lifetime</a>.
+          It is not expected to change in any significant way until its next annual release.
+          Leap shares a Common Base System with <a href="https://www.suse.com/products/server/">SUSE Linux Enterprise</a>, so major architectural changes are not expected for several years, aligned with each new Major Release (eg 12, 13, etc) of SUSE Linux Enterprise.
+        </p>
+        <p>
+          Leap is recommended for <strong>Sysadmins</strong>, <strong>Enterprise Developers</strong>, and <strong>‘Regular’ Desktop Users</strong>.
+        </p>
+      </div><!-- /.col- -->
+    </div><!-- /.row -->
+
+    <p>
+      Both distributions are well tested by <a href="https://openqa.opensuse.org">openQA</a> as well as by human openSUSE contributors so both can be relied upon to work.
+    </p>
+    <p>
+      Both distributions are fully capable of being used on a Desktop PC, laptop, server, or in the cloud.
+    </p>
+
+    <p>
+      <strong>
+        If you are still not sure, download <a href="/distributions/leap">openSUSE Leap</a>
+      </strong>
+    </p>
+    <p>
+      It is easy to <a href="https://en.opensuse.org/openSUSE:Tumbleweed_upgrade">switch to openSUSE Tumbleweed</a> if you change your mind later.
+    </p>
+  </div><!-- /.container -->
+</section>
+
+
+    <footer class="global-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-6 col-md-3">
+        <h6>Developers</h6>
+        <ul class="list-unstyled">
+          <li><a href="https://en.opensuse.org/Portal:Development">Documentation</a></li>
+          <li><a href="https://build.opensuse.org/">Build service</a></li>
+          <li><a href="https://bugzilla.opensuse.org/">Bugzilla</a></li>
+          <li><a href="https://github.com/openSUSE">Github</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3">
+        <h6>Information</h6>
+        <ul class="list-unstyled">
+          <li><a href="https://news.opensuse.org/">News</a></li>
+          <li><a href="https://doc.opensuse.org/release-notes/">Release notes</a></li>
+          <li><a href="https://events.opensuse.org/">Events</a></li>
+          <li><a href="http://planet.opensuse.org/">Planet</a></li>
+          <li><a href="https://shop.opensuse.org/">Shop</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3">
+        <h6>Community</h6>
+        <ul class="list-unstyled">
+          <li><a href="https://forums.opensuse.org/">Forums</a></li>
+          <li><a href="https://connect.opensuse.org/">Connect</a></li>
+          <li><a href="https://www.facebook.com/groups/opensuseproject/">Facebook group</a></li>
+          <li><a href="https://en.opensuse.org/openSUSE:Mailing_lists_subscription">Mail lists</a></li>
+          <li><a href="https://en.opensuse.org/openSUSE:IRC_list">IRC channels</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-md-3">
+        <h6>Social Media</h6>
+        <ul class="list-unstyled">
+          <li><a href="https://www.facebook.com/en.openSUSE">Facebook</a></li>
+          <li><a href="https://twitter.com/opensuse">Twitter</a></li>
+          <li><a href="https://www.youtube.com/user/opensusetv">YouTube</a></li>
+          <li><a href="https://t.me/opensusenews">Telegram</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-copyright-language-row">
+      <div class="footer-copyright">
+        &copy; 2011&ndash;2019 openSUSE contributors
+      </div>
+      <div>
+        <a class = "footer-Contribute-ReportBugs" href="https://github.com/openSUSE/software-o-o" target="_blank" >
+          <span>Contribute!</span>
+          <i class="typcn typcn-social-github-circular"></i>
+        </a>
+      </div>
+      <div>
+        <a class = "footer-Contribute-ReportBugs" href="https://github.com/openSUSE/software-o-o/issues/new" target="_blank" >
+          <span>Report Bugs</span>
+          <i class="typcn typcn-warning-outline"></i>
+        </a>
+      </div>
+      <div class="footer-language">
+        Language <!-- This label should not be translated! -->
+        <div class="btn-group dropup language-menu">
+          <button class="btn btn-link dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+            <span class="selected-language">English</span>
+            <span class="caret"></span>
+          </button>
+          <div class="dropdown-menu dropdown-menu-right">
+              <a class="dropdown-item" href="/ar">العربية</a>
+              <a class="dropdown-item" href="/bg">Български</a>
+              <a class="dropdown-item" href="/ca">Català</a>
+              <a class="dropdown-item" href="/cs">Čeština</a>
+              <a class="dropdown-item" href="/da">Dansk</a>
+              <a class="dropdown-item" href="/de">Deutsch</a>
+              <a class="dropdown-item" href="/el">Ελληνικά</a>
+              <a class="dropdown-item" href="/en">English</a>
+              <a class="dropdown-item" href="/es">Español</a>
+              <a class="dropdown-item" href="/et">/et</a>
+              <a class="dropdown-item" href="/fa">فارسی</a>
+              <a class="dropdown-item" href="/fi">Suomi</a>
+              <a class="dropdown-item" href="/fr">Français</a>
+              <a class="dropdown-item" href="/gl">Galego</a>
+              <a class="dropdown-item" href="/hi">हिन्दी</a>
+              <a class="dropdown-item" href="/hu">Magyar</a>
+              <a class="dropdown-item" href="/id">Bahasa Indonesia</a>
+              <a class="dropdown-item" href="/it">Italiano</a>
+              <a class="dropdown-item" href="/ja">日本語</a>
+              <a class="dropdown-item" href="/kab">/kab</a>
+              <a class="dropdown-item" href="/km">ភាសាខ្មែរ</a>
+              <a class="dropdown-item" href="/ko">한국어</a>
+              <a class="dropdown-item" href="/lt">Lietuvių</a>
+              <a class="dropdown-item" href="/nb">Bokmål</a>
+              <a class="dropdown-item" href="/nl">Nederlands</a>
+              <a class="dropdown-item" href="/nn">Nynorsk</a>
+              <a class="dropdown-item" href="/pl">Polski</a>
+              <a class="dropdown-item" href="/pt_BR">Português</a>
+              <a class="dropdown-item" href="/ro">Română</a>
+              <a class="dropdown-item" href="/ru">Русский</a>
+              <a class="dropdown-item" href="/sk">Slovenčina</a>
+              <a class="dropdown-item" href="/sv">Svenska</a>
+              <a class="dropdown-item" href="/th">ภาษาไทย</a>
+              <a class="dropdown-item" href="/uk">Українська</a>
+              <a class="dropdown-item" href="/wa">Walon</a>
+              <a class="dropdown-item" href="/zh_CN">简体中文</a>
+              <a class="dropdown-item" href="/zh_TW">繁體中文</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><!-- /.container -->
+</footer>
+
+
+  </body>
+</html>
